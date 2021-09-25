@@ -22,3 +22,5 @@ I've also been nervous about this class and a few other things, but I'm more at 
 
 Hopefully in the next coming weeks, I'll be able to determine what's best for me--relationship-wise.
 I wonder if this will cause a merge conflict?
+
+Oops, I pushed before actually doing anything.
