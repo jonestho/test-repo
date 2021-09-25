@@ -1,5 +1,0 @@
-Conflict time!
-<<<<<<< HEAD
-=======
-Oh no!
->>>>>>> github_test
